@@ -1,0 +1,19 @@
+{
+  "name": "lunch",
+  "version": "1.0.0",
+  "description": "lunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CondeNast/lunch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CondeNast/lunch/issues"
+  },
+  "homepage": "https://github.com/CondeNast/lunch#readme"
+}

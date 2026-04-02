@@ -20,7 +20,7 @@
   "dependencies": {
     "@types/hapi": "~16.1.9",
     "@types/lodash": "^4.14.36",
-    "lodash": "~4.12.0",
+    "lodash": "~4.18.1",
     "hapi": "~16.5.2",
     "react": "~15.6.1",
     "webpack": "~3.5.5"
